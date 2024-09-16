@@ -3,5 +3,9 @@
 + Version después de regresar al commit
 + se agrega para la rama verde
 + segunda modificación en verde
+<<<<<<< HEAD
 + linea en master - Conflicto master
+=======
++ linea en master-conflicto
+>>>>>>> verde
 + se agrega linea en rama amarilla
